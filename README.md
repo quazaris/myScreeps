@@ -1,3 +1,2 @@
 # myScreeps
-screeps src files for screeps game
-hello i am trying github on a new branch
+screeps src files for screeps.com Game
